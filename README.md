@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <h1 align="center">Hi 👋, I'm 🚀 Sargis Mosikyan</h1>
+  <h1 align="center">Hi 👋, I'm 🚀 Arsen Apresyan</h1>
 <h3 align="center">A passionate Full Stack PHP Developer | convergent thinker</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 </div>
 
 
-🔹 7+ years of experience in PHP, JavaScript, and modern web technologies
+🔹 5+ years of experience in PHP, JavaScript, and modern web technologies
 
-🔹 Expertise in Laravel, YII2, Symfony, Vue.js, and Node.js
+🔹 Expertise in Laravel, YII2, Symfony, React.js
 
 🔹 Skilled in API development, database management, and performance optimization
 
@@ -18,7 +18,7 @@
 
 Backend: PHP (Laravel, Symfony, Phalcon, CodeIgniter), Node.js (Express.js)
 
-Frontend: JavaScript (Vue.js, Angular, Livewire, Tailwind CSS)
+Frontend: JavaScript (React.js, Redux, Livewire, Tailwind CSS)
 
 Databases: MySQL, PostgreSQL, MongoDB, Elasticsearch
 
@@ -35,7 +35,7 @@ DevOps & Tools: Docker, Git (GitHub/GitLab), Vagrant, Apache, Nginx
 
 📬 Let's Connect!
 
-📧 Email: sargis.mosikyan.up@gmail.com
+📧 Email: arsenapresyan.dev@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sargis-m&layout=compact&theme=vision-friendly-dark)](https://github.com/sargis-m/github-readme-stats)
 
